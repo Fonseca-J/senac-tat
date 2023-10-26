@@ -1,0 +1,183 @@
+    1  /usr/bin/hollywood 
+    2  sudo
+    3  sudo apt
+    4  sudo apt up
+    5  sudo apt update
+    6  sudo apt upgrade 
+    7  sudo apt full upgrade 
+    8  sudo apt full- upgrade 
+    9  sudo apt full-upgrade 
+   10  sudo apt dis-upgrade
+   11  sudo apt autoremove
+   12  sudo apt autockean
+   13  sudo apt autoclean
+   14  sudo apt clean
+   15  history
+   16  sudo apt update
+   17  holl
+   18  sudo apt hollywood
+   19  sudo apt install hollywood
+   20  hollywood
+   21  sudo apt power off
+   22  sudo apt poweroff
+   23  sudo poweroff
+   24  sudo apt
+   25  sudo apt update
+   26  sudo apt upgrade
+   27  sudo apt full-update
+   28  sudo apt dist-update
+   29  sudo apt autocleansudo apt autoremove
+   30  sudo atp autoremosve
+   31  sudo aprt autoclean
+   32  sudo apt autoclean
+   33  sudo apt update
+   34  sudo apt insatll kazam
+   35  sudo apt install kazam
+   36  sudo apt install git vim python2 python3
+   37  sudo apt upgrade
+   38  sudo apt shutdown
+   39  sudo apt shoutdown off
+   40  shutdown hnow
+   41  shutdown -hnow
+   42  sudo apt upgrade
+   43  sudo apt update
+   44  sudo atp dist-upgrade
+   45  sudo apt autoremove
+   46  sudo apt autoclean
+   47  sudo apt full-upgrade
+   48  id
+   49  sudo -i
+   50  ls
+   51  ls -lh
+   52  ls -a
+   53  ls -ha
+   54  ls - lha
+   55  ls -lha
+   56  cd
+   57  cd\
+   58  cd /
+   59  ls
+   60  ls -lha
+   61  pwd
+   62  cd -
+   63  pwd
+   64  cd -
+   65  cd ~
+   66  pwd
+   67  ls
+   68  cd Documentos/
+   69  cd /
+   70  cd ~
+   71  pwd
+   72  cd home
+   73  cd /
+   74  cd home/
+   75  cd home/senac/Documentos
+   76  cd ~
+   77  cd /
+   78  cd home/senac/Documentos/
+   79  cd/
+   80  cd /
+   81  cd ~/Documentos/
+   82  pwd
+   83  cd..
+   84  cd../
+   85  cd ..
+   86  pwd
+   87  cd ..
+   88  history
+   89  cd home/senac/Documentos/
+   90  mkdir senac
+   91  ls
+   92  mkdir senac
+   93  ls
+   94  mkdir senac
+   95  mkdir SENAC
+   96  LS
+   97  ls
+   98  mkadir =v tatuape
+   99  mkadir -=v tatuape
+  100  mkadir -v tatuape
+  101  mkdir -v tatuape
+  102  ls
+  103  cd senac/
+  104  mkdir -v
+  105  mkdir -v Alisson Andrew Arthur Bruno Caio
+  106  ls
+  107  ls -lha
+  108  mkdir -v SENAC TATUAPÉ
+  109  mkdir -v senac TATUAPÉ
+  110  mkadir -v TATUAPÉ
+  111  CD ..
+  112  cd ..
+  113  mkdir -v SENAC TATUAPÉ
+  114  mkdir -v SENAC Tatuapé
+  115  ls
+  116  cd SENAC
+  117  TATUAPÉ
+  118  CD TATUAPÉ
+  119  ls
+  120  cd TATUAPÉ
+  121  ls
+  122  cd -lha
+  123  ls
+  124  lh
+  125  cd lh
+  126  -lha
+  127  cd -lha
+  128  cd / TATUAPÉ
+  129  LS
+  130  ls
+  131  dir
+  132  dir -lha
+  133  ls lha
+  134  ls -lh
+  135  cd..
+  136  cd ..
+  137  ls -lha
+  138  seNAC
+  139  senac
+  140  pwd
+  141  cd / senac
+  142  cd /senac
+  143  cd/senac
+  144  /senac
+  145  mkdir -v 'SENAC TATUAPÉ'
+  146  ls lh
+  147  ls -lha
+  148  cd SENAC TATUAPÉ/
+  149  cd 'SENAC TATUAPÉ/
+  150  cd 'SENAC
+  151  CD senac
+  152  cd senac
+  153  cd 'SENAC TATUAPÉ/
+  154  pwd
+  155  cd
+  156  pwd
+  157  cd ..
+  158  cd ~
+  159  history
+  160  mkdir -v tat/ info/ tst/ est/ amd/
+  161  ls -lha
+  162  cd tat
+  163  mkdir -v info/ tst/ est/ amd
+  164  ls -lha
+  165  cd amd
+  166  ls
+  167  ls -lha
+  168  cd ..
+  169  ls -lha
+  170  mkdir --help
+  171  man mkadir
+  172  man mkdir
+  173  mkdir -pv tat/info/tst/est;amd
+  174  ls
+  175  rm Alisson
+  176  rm -fv Alisson
+  177  Rm -fv Alisson
+  178  rm -Rfv Alisson
+  179  ls
+  180  rm -Rfv Andrew/ Bruno/ est/ amd/ Arthur/ Caio/ info/ SENAC/ TATUAPÉ/
+  181  LS
+  182  ls
+  183  history
